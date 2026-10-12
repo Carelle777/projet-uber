@@ -1,2 +1,7 @@
 venv/
-data/
+.venv/
+data/*.csv
+iframe_figures/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
